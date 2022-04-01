@@ -1,3 +1,10 @@
+Frontend of Book-Reservation web application. The application provides services to restaurants which desire to replace there booking process to modern one via the web. The Frontend based ReactJS and contains HTTP request to our server and some styling.
+
+
+**In order to run this react app:**
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
